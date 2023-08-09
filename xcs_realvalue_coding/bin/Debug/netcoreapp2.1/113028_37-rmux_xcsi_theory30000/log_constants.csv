@@ -1,0 +1,34 @@
+Experimental settings
+maxProblems,5000000
+nrExps,30
+moving_average,5000
+seed,1
+
+Theoritical XCS parameter settings
+beta,0.08199827
+epsilon_0,30.23281083
+theta_sub,63
+
+Other XCS parameter settings
+maxPopSize,30000
+alpha,0.1
+delta,0.1
+nu,5
+theta_GA,25
+theta_del,20
+pX,0.8
+pM,0.04
+P_dontcare,0.8
+s0,1
+m0,0.1
+predictionErrorReduction,1
+fitnessReduction,0.1
+doGASubsumption,True
+doActionSetSubsumption,True
+doTSselection,True
+tsSize,0.4
+doUniformXover,True
+predictionIni,0
+predictionErrorIni,0
+fitnessIni,0.01
+dontCare,#

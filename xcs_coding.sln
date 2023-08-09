@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xcs_realvalue_coding", "xcs_realvalue_coding\xcs_realvalue_coding.csproj", "{4E4E0260-979B-4243-B725-DB33EA59DECF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xcs_binary_coding", "..\XCS-Binary-Coding-main\xcs_binary_coding\xcs_binary_coding.csproj", "{C1D84377-D1F9-4D7E-BED8-B99490C957AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E4E0260-979B-4243-B725-DB33EA59DECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E4E0260-979B-4243-B725-DB33EA59DECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E4E0260-979B-4243-B725-DB33EA59DECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E4E0260-979B-4243-B725-DB33EA59DECF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1D84377-D1F9-4D7E-BED8-B99490C957AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1D84377-D1F9-4D7E-BED8-B99490C957AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1D84377-D1F9-4D7E-BED8-B99490C957AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1D84377-D1F9-4D7E-BED8-B99490C957AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDAA79BB-383D-4985-800F-02E9D48DCEC4}
+	EndGlobalSection
+EndGlobal

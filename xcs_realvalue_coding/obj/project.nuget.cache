@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "hUbojl0kDt/Dyv92DVKDFjJmyKCojxNBZoUvlq1PRqsQ757USPun3gq3HiqCtmDoFBc/EwvKgJB5IHcRMEh4pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hrt20\\大学\\研究室\\GitHub\\new\\XCS-Coding-main\\xcs_realvalue_coding\\xcs_realvalue_coding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hrt20\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\hrt20\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\hrt20\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\hrt20\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\hrt20\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\hrt20\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\hrt20\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
