@@ -11,10 +11,15 @@ Note that, for speeding up, this code employs the "messy-coding" like rule-match
 You should receive the GNU General Public License. This code can be distributed WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABLILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 ## What is XCS?
+
+Learning Classifier Systems (LCSs), a paradigm of evolutionary rule-based machine learning, have been applied to modern issues in the machine learning field. Wilson’s XCS classifier system is the most successful and best-studied LCS algorithm to date. 
+
 XCS stands for Accuracy-Based Learning Classifier System (or eXtended Classifier System), a classification framework based on a reinforcement learning technique. It seeks to form accurate, maximally general rules that together classify the state space of a given domain. The framework uses an accuracy-based fitness to provide a natural pressure to produce maximally accurate rules. In contrast, a rule-reduction method, i.e., the subsumption operator, allows pressure to extract the maximally general rules. The cooperative cycle with both pressures enables XCS to eventually retain the maximally accurate and general rules if the evolutionary computation methods can generate them. 
 
 ## The Power of Our Learning Optimality Theory
-XCS have been applied to modern issues in the machine learning field. We have derived a theoretical approach that mathematically guarantees that XCS identifies maximally accurate rules in the fewest iterations possible, which also returns a theoretically valid hyperparameter setting. We also experimentally show that our theoretical setting enables XCS to easily solve several challenging problems where it had previously struggled. This contribution has been published on IEEE Transactions on Evolutionary Computation.
+
+
+We have derived a theoretical approach that mathematically guarantees that XCS identifies maximally accurate rules in the fewest iterations possible, which also returns a theoretically valid hyperparameter setting. We also experimentally show that our theoretical setting enables XCS to easily solve several challenging problems where it had previously struggled. This contribution has been published on IEEE Transactions on Evolutionary Computation.
 
 
 
