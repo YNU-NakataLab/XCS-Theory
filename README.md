@@ -29,7 +29,7 @@ We have derived a theoretical approach that mathematically guarantees that XCS i
 
  2. Decide which problem to solve from "xcs_binary_coding/Program.cs" for binary-valued inputs or "xcs_realvalue_coding/Program.cs" for real-valued inputs.
 
- 3. Run with or without debug
+ 3. Run with or without debug.
 
 ## Copyright
 > The copyright belongs to Masaya Nakata at Yokohama National University, Japan. You are free to use this code for research purposes. Please refer the following article: "Masaya Nakata and Will N. Browne. Learning optimality theory for accuracy-based learning classifier systems. IEEE Transactions on Evolutionary Computation 25.1 (2020): 61-74."
@@ -47,14 +47,18 @@ publisher={IEEE}
 }
 ```
 ## References
-- S. W. Wilson, "Classifier Fitness Based on Accuracy," Evolutionary Computation, Vol.3, No.2, pp. 149-175, June 1995. https://doi.org/10.1162/evco.1995.3.2.149
-    - The original paper of XCS for binary-valued inputs using ternary alphabet representation.
-- M. V. Butz, S. W. Wilson, "An algorithmic description of XCS," S. Soft Computing, Volume 6, Issue 3-4, pp. 144-153, June 2002. https://doi.org/10.1007/s005000100111
-    - The tutorial for the XCS implementation.
-- S. W. Wilson, "Get Real! XCS with Continuous-Valued Inputs," Learning Classifier Systems, IWLCS 1999, Lecture Notes in Computer Science, vol 1813, pp. 209-219, July 2000. https://doi.org/10.1007/3-540-45027-0_11
-    - The original paper of XCSR (XCS for real-valued inputs).
-    - The Center-Spread hyperrectangular representation is proposed in this paper.
-- S. W. Wilson, "Mining oblique data with XCS," Advances in Learning Classifier Systems, IWLCS 2000, Lecture Notes in Computer Science, vol 1996, pp. 158-174, August 2001. https://doi.org/10.1007/3-540-44640-0_11
-    - The original paper of XCSI (XCS for integer-valued inputs).
-- C. Stone, L. Bull, "For Real! XCS with Continuous-Valued Inputs," Evolutionary Computation, Vol. 11, No.3, pp.299-336, September 2003. https://doi.org/10.1162/106365603322365315
-    - The Ordered Bound hyperrectangular representation is proposed based on the interval-based integer representation in XCSI.
+S. W. Wilson, "**Classifier Fitness Based on Accuracy**," Evolutionary Computation, Vol.3, No.2, pp. 149-175, June 1995. https://doi.org/10.1162/evco.1995.3.2.149  
+<sub> The original paper of XCS for binary-valued inputs using ternary alphabet representation.</sub>
+
+M. V. Butz, S. W. Wilson, "**An Algorithmic Description of XCS**," S. Soft Computing, Volume 6, Issue 3-4, pp. 144-153, June 2002. https://doi.org/10.1007/s005000100111  
+<sub>The tutorial for the XCS implementation.</sub>
+
+S. W. Wilson, "**Get Real! XCS with Continuous-Valued Inputs**," Learning Classifier Systems, IWLCS 1999, Lecture Notes in Computer Science, vol 1813, pp. 209-219, July 2000. https://doi.org/10.1007/3-540-45027-0_11  
+<sub>The original paper of XCSR (XCS for real-valued inputs).</sub>  
+<sub>The Center-Spread hyperrectangular representation is proposed in this paper.</sub>
+
+S. W. Wilson, "**Mining Oblique Data with XCS**," Advances in Learning Classifier Systems, IWLCS 2000, Lecture Notes in Computer Science, vol 1996, pp. 158-174, August 2001. https://doi.org/10.1007/3-540-44640-0_11  
+<sub>The original paper of XCSI (XCS for integer-valued inputs).</sub>
+
+C. Stone, L. Bull, "**For Real! XCS with Continuous-Valued Inputs**," Evolutionary Computation, Vol. 11, No.3, pp.299-336, September 2003. https://doi.org/10.1162/106365603322365315  
+<sub>The Ordered Bound hyperrectangular representation is proposed based on the interval-based integer representation in XCSI. </sub>
